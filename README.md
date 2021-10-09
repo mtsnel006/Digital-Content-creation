@@ -12,4 +12,4 @@ Repository for the content creation journey
 5. Video Editing <br>
 6. Data collection and analysis for market research<br>
 7. Data visualization<br>
-8. 
+8. The future of data-driven content - [this post](https://www.convinceandconvert.com/digital-marketing/future-of-data-journalism/) has is
