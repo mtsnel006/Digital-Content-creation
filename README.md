@@ -15,3 +15,4 @@ Repository for the content creation journey
 8. The future of data-driven content - [this post](https://www.convinceandconvert.com/digital-marketing/future-of-data-journalism/) has is
 9. Website templates : https://www.bootstrapdash.com/website-templates-free-download/
 10. https://luminocity3d.org/ Urban data mapping
+11. https://ralucanicola.github.io/JSAPI_demos/world-population/ this is the ideal 3d type of mapping that should happen
