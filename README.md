@@ -19,3 +19,4 @@ Repository for the content creation journey
 12. https://github.com/RalucaNicola/earthquakes-viz this is mapping eathquakes across the globe
 13. https://github.com/RalucaNicola - she has all the mapping code that is great , and this is [her site](https://raluca-nicola.net/)
 14. To search any github user online - https://api.github.com/users/xxxxusername-githubxxx/events/public 
+15. Realationship between journalism, marketing and design documented [here](https://sriramvsharma.wordpress.com/)
