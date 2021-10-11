@@ -20,3 +20,4 @@ Repository for the content creation journey
 13. https://github.com/RalucaNicola - she has all the mapping code that is great , and this is [her site](https://raluca-nicola.net/)
 14. To search any github user online - https://api.github.com/users/xxxxusername-githubxxx/events/public 
 15. Realationship between journalism, marketing and design documented [here](https://sriramvsharma.wordpress.com/)
+16. Scrollytelling for digital content, social media strategies etc well documented [here](https://flourish.studio/2019/09/05/scrollytelling-flourish-sky-q-and-a/) and shown [here](https://news.sky.com/story/why-7-000-people-die-needlessly-every-day-11770982)
