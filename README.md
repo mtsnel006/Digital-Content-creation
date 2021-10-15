@@ -23,4 +23,4 @@ Repository for the content creation journey
 16. Scrollytelling for digital content, social media strategies etc well documented [here](https://flourish.studio/2019/09/05/scrollytelling-flourish-sky-q-and-a/) and shown [here](https://news.sky.com/story/why-7-000-people-die-needlessly-every-day-11770982)
 17. [Here are Steps ](https://www.stateofdigitalpublishing.com/content-strategy/what-is-a-content-creator/ ) to successful content creation
 18. Motion graphic [video 1](https://youtu.be/iJsq5YDInRY) and the second video  [here](https://youtu.be/ThiCMd5kGbE) and the best one [here](https://youtu.be/7lVVU9rSpAs) and the best ones from her, found [here](https://youtu.be/ylKpYbmmVSY)
-
+Election data has a greatest potential: look at how other countries are doing it [here](https://github.com/mapping-elections/elections-data)
