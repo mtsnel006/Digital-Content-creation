@@ -25,4 +25,5 @@ Repository for the content creation journey
 18. Motion graphic [video 1](https://youtu.be/iJsq5YDInRY) and the second video  [here](https://youtu.be/ThiCMd5kGbE) and the best one [here](https://youtu.be/7lVVU9rSpAs) and the best ones from her, found [here](https://youtu.be/ylKpYbmmVSY)
 19. Election data has a greatest potential: look at how other countries are doing it [here](https://github.com/mapping-elections/elections-data)
 20. Elections explorer tool by Openup can be researched more in depth [here](https://giters.com/OpenUpSA)
-21. 21. This company has done some really cool [stuff](https://github.com/javers/javers.github.io)
+21. This company has done some really cool [stuff](https://github.com/javers/javers.github.io)
+22. SVG animations inspiration from [here](https://codepen.io/Yasio/pen/wEWyLE)
