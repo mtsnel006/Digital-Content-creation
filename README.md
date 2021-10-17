@@ -27,4 +27,4 @@ Repository for the content creation journey
 20. Elections explorer tool by Openup can be researched more in depth [here](https://giters.com/OpenUpSA)
 21. This company has done some really cool [stuff](https://github.com/javers/javers.github.io)
 22. SVG animations inspiration from [here](https://codepen.io/Yasio/pen/wEWyLE)
-23. Carbon Footprint calculator [here](https://www3.epa.gov/carbon-footprint-calculator/)
+23. Carbon Footprint calculator [here](https://www3.epa.gov/carbon-footprint-calculator/) another impressive one [here](https://github.com/Achiaga/carbon_footprint)
