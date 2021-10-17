@@ -28,3 +28,5 @@ Repository for the content creation journey
 21. This company has done some really cool [stuff](https://github.com/javers/javers.github.io)
 22. SVG animations inspiration from [here](https://codepen.io/Yasio/pen/wEWyLE)
 23. Carbon Footprint calculator [here](https://www3.epa.gov/carbon-footprint-calculator/) another impressive one [here](https://github.com/Achiaga/carbon_footprint)
+24. Other versions of carbon footprint calculator include mobile app examples like [this one](https://github.com/levtatz/carbon-footprint) and this [one](https://github.com/FredJul/Warmd)
+25. Information designer - such a good example](https://github.com/eleanorlutz/)
