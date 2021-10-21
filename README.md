@@ -32,3 +32,4 @@ Repository for the content creation journey
 25. Information designer - such a good example](https://github.com/eleanorlutz/)
 
 26. Animations [here](https://danielsftns.github.io/Animated-Infographic/)
+27. [Here](https://www.youtube.com/c/MetaBallStudios) - we learn all about 3d
