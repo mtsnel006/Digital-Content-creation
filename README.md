@@ -33,3 +33,4 @@ Repository for the content creation journey
 
 26. Animations [here](https://danielsftns.github.io/Animated-Infographic/)
 27. [Here](https://www.youtube.com/c/MetaBallStudios) - we learn all about 3d
+28. Adobe courses [animate](https://www.youtube.com/watch?v=JtlVx-dNHcw), [another](https://www.youtube.com/watch?v=ZR2n3Gd-SqU)
