@@ -37,3 +37,4 @@ Repository for the content creation journey
 29. 3D data visualizations [here](http://graphics.wsj.com/3d-nasdaq/) using webxr
 30. Elections mapping in [future](https://gis.usc.edu/blog/4-ways-gis-is-impacting-elections/)
 31. D3  and three.js are worth learning soon , here is the practise [repo](https://github.com/zachalexander/d3-practice)  - data science template [website](https://github.com/zachalexander/data-science-portfolio-template)
+32. Adobe animate from youtube tutorials [here](https://www.youtube.com/watch?v=7huMYp7WpsI)
