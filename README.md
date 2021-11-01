@@ -39,3 +39,4 @@ Repository for the content creation journey
 31. D3  and three.js are worth learning soon , here is the practise [repo](https://github.com/zachalexander/d3-practice)  - data science template [website](https://github.com/zachalexander/data-science-portfolio-template)
 32. Adobe animate from youtube tutorials [here](https://www.youtube.com/watch?v=7huMYp7WpsI)
 33. Making a showreel using the examples like [this](https://youtu.be/SfMT4Agg8Xw) and [this](https://www.youtube.com/watch?v=YDPFMTNOxOg)
+34. Maing digital marketing tools for web content example [here](https://hiilite.com/web-development-products/)
