@@ -42,3 +42,16 @@ Repository for the content creation journey
 34. Maing digital marketing tools for web content example [here](https://hiilite.com/web-development-products/)
 35. 35. Coporate animated videos like [these](https://twitter.com/i/status/1419647977702912006)
 36. Relevant environmental projects
+
+
+
+
+### Portfolio structure:
+
+1. Include the maps
+2. Include infographic videos animated
+3. Include data visualizations
+4. Include other web tools
+5. Include climate themed work
+6. The a lot more of video work 
+7. Update your Linkedin profile
