@@ -42,6 +42,7 @@ Repository for the content creation journey
 34. Maing digital marketing tools for web content example [here](https://hiilite.com/web-development-products/)
 35. 35. Coporate animated videos like [these](https://twitter.com/i/status/1419647977702912006)
 36. Relevant environmental projects
+37. Collaborative tools for working with other people from [Google](https://journaliststudio.google.com/pinpoint/collections)
 
 
 
