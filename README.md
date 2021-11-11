@@ -43,6 +43,8 @@ Repository for the content creation journey
 35. 35. Coporate animated videos like [these](https://twitter.com/i/status/1419647977702912006)
 36. Relevant environmental projects
 37. Collaborative tools for working with other people from [Google](https://journaliststudio.google.com/pinpoint/collections)
+38. Some Aljeezera inspiration from [here](https://twitter.com/i/status/1453021097952112642)
+39. Such a beautiful animated map with mini graphs and dynamic tables for global [covid-19](https://github.com/stevenliuyi/covid19) 
 
 
 
