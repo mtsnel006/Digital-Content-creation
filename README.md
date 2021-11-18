@@ -59,3 +59,10 @@ Repository for the content creation journey
 5. Include climate themed work
 6. The a lot more of video work 
 7. Update your Linkedin profile
+
+
+
+### Inspiration:
+1. https://dogstudio.co/
+2. https://www.instagram.com/wemakegoodshit_pods/]
+3. https://stample.com/link/stamples/58e4b96744f4e04bb068bea4/we-make-good-shit
