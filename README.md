@@ -46,6 +46,7 @@ Repository for the content creation journey
 38. Some Aljeezera inspiration from [here](https://twitter.com/i/status/1453021097952112642)
 39. Such a beautiful animated map with mini graphs and dynamic tables for global [covid-19](https://github.com/stevenliuyi/covid19) 
 40. Using data wrapper in tjhe use [newsrooms](https://blog.datawrapper.de/data-vis-dispatch-november-16-2021/)
+41. Add a lot of wordpress skills
 
 
 
