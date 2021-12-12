@@ -60,6 +60,7 @@ Repository for the content creation journey
 5. Include climate themed work
 6. The a lot more of video work 
 7. Update your Linkedin profile
+8. Demonstrate data skills
 
 
 
